@@ -3,11 +3,11 @@
 ## About Me
 I'm a Java Software Engineer with 1.5 years of experience in building scalable and efficient applications. Passionate about clean code, robust design, and creating software that makes a difference. I currently intern at EPAM and working at Millat Umidi University, where I specialize in Java Software Development.
 
-- 🏢 I'm currently working on **[Project or Focus]**
-- 🌱 Learning more about **[Technology or Topic]**
-- 📫 Reach me: **[Your Email]**
+- 🏢 I'm currently working on **University Portal Project**
+- 🌱 Learning more about **Software Development and AI**
+- 📫 Reach me: **diorakhmadaliev@gmail.com**
 - 💬 Ask me about **Java, Spring Boot, software design, and best practices**
-- 📄 Know about my experiences: [LinkedIn Profile](LinkedIn URL)
+- 📄 Know about my experiences: https://www.linkedin.com/in/diyorbek-akhmadaliev-862a0a25a/
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
